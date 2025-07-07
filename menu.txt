@@ -1,0 +1,13 @@
+-- Entrantes --
+Ensalada,200,2.5
+Gazpacho,180,3.1
+-- Primer plato --
+Paella,400,4
+Sopa,250,3
+-- Segundo plato --
+Pollo,350,4.5
+Pescado,250,4.5
+-- Postre --
+Fruta,200,1.75
+Flan,300,2
+Helado,400,2.5
