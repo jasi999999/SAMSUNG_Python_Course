@@ -1,0 +1,14 @@
+<html>
+<body>
+<h1>Hello, World!</h1>
+<p> We are learning the art of coding
+with Python programming language.
+Here we are learning ... </p>
+<ul>
+<li> Data Structures, </li>
+<li> Algorithms, </li>
+<li> and Computational Thinking,
+eventually. </li>
+</ul>
+</body>
+</html>
