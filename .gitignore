@@ -1,0 +1,6 @@
+# git rm --cached file (para eliminarlo de GitHub)
+# Luego hacer push origin, normal
+
+Lessons/
+A_Exams.ipynb
+python-3.13-docs-pdf-a4.zip
